@@ -1,5 +1,5 @@
 # WSMS (Wildfire Sensor Management System)
-This is a web application focused on relational databse for CMPE226 course project 2.
+This is a web application focused on relational databse.
 There are three components in this repo:
 - WSMS (client side)
 - WSMS_server (server side)
